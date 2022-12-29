@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StjepanDev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Remix.js
 - 💞️ I’m looking to collaborate on Angular topics
 
 <!---
