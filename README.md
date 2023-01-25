@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StjepanDev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular and Remix.js
-- 💞️ I’m looking to collaborate on Angular topics
+- 💞️ I’m looking to collaborate on React and Angular topics
 
 <!---
 StjepanDev/StjepanDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
