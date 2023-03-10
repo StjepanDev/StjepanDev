@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StjepanDev
-- 👀 I’m interested in web development
+- 👀 I’m interested in RxJS right now
 - 🌱 I’m currently learning Angular and Remix.js
 - 💞️ I’m looking to collaborate on React and Angular topics
 
