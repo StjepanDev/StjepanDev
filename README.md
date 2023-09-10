@@ -2,7 +2,7 @@
 - 👀 I’m interested in RxJS right now
 - 🌱 I’m currently learning Angular and reactive programming 
 - 💞️ I’m looking to collaborate on React and Angular topics
-- &#129512; &#129512; &#129512; &#129512; Learning .NET Core 6...
+- &#129512; &#129512; &#129512; &#129512; Learning .NET framework 
 
 <!---
 StjepanDev/StjepanDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
